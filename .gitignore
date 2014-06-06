@@ -1,21 +1,18 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Editor Temp files
+*.swp
+*~
+*#
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Compressed/Tarred files
+ *.zip
+ *.gz
+ *.bz2
+ *.tar
 
-# Executables
-*.exe
-*.out
-*.app
+# # Others
+ *.pdf
+ *.exe
+ *.out
+ *.o
+*.d
